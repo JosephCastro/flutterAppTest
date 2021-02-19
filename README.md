@@ -21,6 +21,7 @@ Dentro de los puntos que evaluaremos, estan los siguientes:
 - Debes incluir un pipeline para generar la aplicacion y poder compilarla
 - Vamos a leer la historia de los commits, para ver como llegaste a la solución, asi que debes hacer commit a medida que avanzas en el desarrollo, para ello
 esperamos comentarios de commits, que sean significantes.
+- Deseable, contar con una interfaz amigable al usuario.
 - Debes generar un diagrama de la arquitectura que utilizas en el desarrollo de tu APP.
 
 
